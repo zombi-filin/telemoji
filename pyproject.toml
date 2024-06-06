@@ -1,0 +1,11 @@
+[project]
+name = "telemoji"
+version = "0.1.0"
+description = "Emoji для телеграмм"
+authors = ["Zombi Filin<zombi.filin.256@gmail.com>"]
+readme = "README.md"
+license = "MIT"
+license = "MIT"
+homepage = "https://github.com/zombi-filin/telemoji"
+repository = "https://github.com/zombi-filin/telemoji.git"
+keywords = ["emoji", "telegram", "telemoji"]
