@@ -54,7 +54,7 @@
 | arrow_down | &#x02B07; | \U00002B07 |
 | o | &#x02B55; | \U00002B55 |
 | black_large_square | &#x02B1B; | \U00002B1B |
-| white_large_square |  | \U00002b1c |
+| white_large_square | &#x02B1C; | \U00002B1C |
 | star | &#x02B50; | \U00002B50 |
 | wavy_dash | &#x03030; | \U00003030 |
 | part_alternation_mark | &#x0303D; | \U0000303D |
