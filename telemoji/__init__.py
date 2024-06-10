@@ -1,5 +1,4 @@
-# name = UNICODE
-
+#region emoji list
 hash                        = '\U00000023\U000020e3'
 zero                        = '\U00000030\U000020e3'
 one                         = '\U00000031\U000020e3'
@@ -218,3 +217,4 @@ purple_circle               = '\U0001F7E3'
 brown_circle                = '\U0001F7E4'
 handshake                   = '\U0001F91D'
 cut_of_meat                 = '\U0001F969'
+#endregion
